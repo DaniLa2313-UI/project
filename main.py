@@ -447,3 +447,4 @@ def add_category(name):
         if __name__ == "__main__":
             app = CatalogApp()
             app.mainloop()
+            print('1')
